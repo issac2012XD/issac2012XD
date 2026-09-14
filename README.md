@@ -14,7 +14,8 @@
 
 <img src='https://media.discordapp.net/attachments/826511869640572964/1490121063089311814/image.png?ex=6aa879e2&is=6aa72862&hm=5c4370c4f4c4b811af24c38fd87d1ab6f87a3be26be9baa6327447a8afba2288&=&format=webp&quality=lossless&width=1280&height=225' alt='Alt what' height='60' width='600'>
 
-<img width="200" alt='alt what' align="left" src="https://co.pinterest.com/pin/1085297210220849637/">
+<img width="200" alt='alt what' align="left" src='https://co.pinterest.com/pin/1085297210220849637/'>
+
 ### - ୧ ‧₊˚ FANDOMS
 - Phighting
 - dsmp
