@@ -37,16 +37,12 @@
 - griefer
 - seawatt
 
-<br>
-<a href="https://boolean.engineer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
-</a>
 
   <table>
         <tr>
-            <td>a <img src="https://i.pinimg.com/736x/c7/65/d0/c765d0a539d7b28cf7ca328f756e823b.jpg" width="100px" alt=""></td>
-            <td>b <img src="https://camo.githubusercontent.com/269f453345b6372209eb8431fa839d8f518933004fe65afde1d98030eb782179/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33642f38372f30612f33643837306132373063646166663933666532333966656166303030666566622e6a7067" width="100px" alt=""></td>
-            <td>c</td>
+            <td> <img src="https://i.pinimg.com/736x/c7/23/35/c723353ea826d0f0982d4af15b291617.jpg" width="100px" alt=""></td>
+            <td> <img src="https://i.pinimg.com/736x/d3/36/71/d3367176b72ffc1be49885f84f4bf979.jpg" width="100px" alt=""></td>
+            <td> <img src="https://i.pinimg.com/736x/90/42/6e/90426eaf81f3afcaed4c8beacf31b97e.jpg" width="100px" alt=""></td>
         </tr>
         <tr>
             <td>asdf</td>
