@@ -12,6 +12,8 @@
 - cyclist
 - My attitude changes depending on the person and their importance to me
 
+<img src='https://media.discordapp.net/attachments/826511869640572964/1490121063089311814/image.png?ex=6aa879e2&is=6aa72862&hm=5c4370c4f4c4b811af24c38fd87d1ab6f87a3be26be9baa6327447a8afba2288&=&format=webp&quality=lossless&width=1280&height=225' alt='Alt what' height='60' width='600'>
+
 ### - ୧ ‧₊˚ FANDOMS
 - Phighting
 - dsmp
