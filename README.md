@@ -43,6 +43,8 @@
             <td> <img src="https://i.pinimg.com/736x/c7/23/35/c723353ea826d0f0982d4af15b291617.jpg" width="100px" alt=""></td>
             <td> <img src="https://i.pinimg.com/736x/d3/36/71/d3367176b72ffc1be49885f84f4bf979.jpg" width="100px" alt=""></td>
             <td> <img src="https://i.pinimg.com/736x/90/42/6e/90426eaf81f3afcaed4c8beacf31b97e.jpg" width="100px" alt=""></td>
+          <td> <img src="https://i.pinimg.com/736x/db/2f/75/db2f751c2f861ce42a18ca32deec9726.jpg" width="100px" alt=""></td>
+          <td> <img src="https://i.pinimg.com/736x/0c/47/35/0c4735462b98a496a35c0a61e7f6b5ce.jpg" width="100px" alt=""></td>
         </tr>
         <tr>
             <td>asdf</td>
